@@ -23,7 +23,7 @@ namespace RaysRentals
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap-ciborg.css",
+                      "~/Content/bootstrap-darkly.css",
                       "~/Content/site.css"));
         }
     }
